@@ -10,6 +10,9 @@ Completion of this version of the website has taken approximately 30 days. After
 
 This is an open source website designed for my software development business. This website is designed to display as much information as possible about the services we provide whilst also having a smooth and streamlined design, easily understandable.
 
+The image below is the first view I can offer od the website's full design.
+![home1](/github-assets/home.jpg)
+
 ### How To Use
 
 To use this website, all you'll need to do is download the code and upload the files to an active domain or host it locally. It's all up to you.
