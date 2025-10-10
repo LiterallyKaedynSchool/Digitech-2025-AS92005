@@ -4,7 +4,7 @@
 
 This is work for my 2025 NCEA Level 1 DIGITECH class.
 
-Completion of this version of the website has taken approximately 30 days. After complications with the GitHub Desktop, a new repository was made, which solved the issues I was recieving.
+Completion of this version of the website has taken approximately 30 days. After complications with the GitHub Desktop, a new repository was made, which solved the issues I was recieving but purged all commit logs.
 
 ## Project Details
 
