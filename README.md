@@ -25,3 +25,9 @@ To use this website, all you'll need to do is download the code and upload the f
 - [x] You need to know how to read HTML and CSS
 - [x] Your systems need to have to ability to run lightweight websites
 - [x] You need to be cool
+
+### Images
+
+- I have created a stramlined navigation bar with an animated dropdown panel to display more information
+ - ![navigation1](/github-images/navigation.jpg)
+ - ![navigation2](/github-images/navigation2.jpg)
