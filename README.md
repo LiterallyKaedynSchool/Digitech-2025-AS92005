@@ -32,8 +32,10 @@ To use this website, all you'll need to do is download the code and upload the f
 
 ## Navigation
 
-- I have created a stramlined navigation bar with an animated dropdown panel to display more information
+- I have created a stramlined navigation bar.
 
 ![navigation1](/github-assets/navigation.jpg)
+
+- This here is a view of the navigation bar with a normal hover (not on the dropdown).
 
 ![navigation2](/github-assets/navigation2.jpg)
