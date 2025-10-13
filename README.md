@@ -6,6 +6,10 @@ This is work for my 2025 NCEA Level 1 DIGITECH class.
 
 Completion of this version of the website has taken approximately 30 days. After complications with the GitHub Desktop, a new repository was made, which solved the issues I was receiving but purged all commit logs.
 
+## My Learning
+
+Throughout the creation of this website, my eyes were opened. I was shown how difficult functioning without constant use of AI was. Throughout this project, I went back to old designs made by ChatGPT for CSS reference and even had to go back to sources like [w3schools](https://w3schools.com)!
+
 ## Project Details
 
 This is an open source website designed for my software development business. This website is designed to display as much information as possible about the services we provide whilst also having a smooth and streamlined design, easily understandable.
