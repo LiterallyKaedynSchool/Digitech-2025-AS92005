@@ -18,12 +18,6 @@ The image below is the first view I can offer of the website's full design and t
 
 ![home1](/github-assets/home.jpg)
 
-## Built-in Functions
-
-- [x] Reactive Animations
-- [x] Well Styled Dropdowns
-- [x] Easily Adjustable Colours and Text (CSS)
-
 ## Navigation
 
 I have created a stramlined navigation bar.
