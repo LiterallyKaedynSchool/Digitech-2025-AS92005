@@ -14,7 +14,7 @@ Throughout the creation of this website, my eyes were opened. I was shown how di
 
 This is an open source website designed for my software development business. This website is designed to display as much information as possible about the services we provide whilst also having a smooth and streamlined design, easily understandable.
 
-The image below is the first view I can offer of the website's full design.
+The image below is the first view I can offer of the website's full design and the live view can be found [here](https://literallykaedynschool.github.io/Digitech-2025-AS92005/).
 
 ![home1](/github-assets/home.jpg)
 
