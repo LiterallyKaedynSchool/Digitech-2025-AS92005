@@ -1,14 +1,8 @@
-    ______           __        ____   _____       ______                              _____            __                     
-   / ____/___ ______/ /_____ _/ / /  / ___/____  / __/ /__      ______ _________     / ___/__  _______/ /____  ____ ___  _____
-  / __/ / __ `/ ___/ __/ __ `/ / /   \__ \/ __ \/ /_/ __/ | /| / / __ `/ ___/ _ \    \__ \/ / / / ___/ __/ _ \/ __ `__ \/ ___/
- / /___/ /_/ (__  ) /_/ /_/ / / /   ___/ / /_/ / __/ /_ | |/ |/ / /_/ / /  /  __/   ___/ / /_/ (__  ) /_/  __/ / / / / (__  ) 
-/_____/\__,_/____/\__/\__,_/_/_/   /____/\____/_/  \__/ |__/|__/\__,_/_/   \___/   /____/\__, /____/\__/\___/_/ /_/ /_/____/  
-                                                                                        /____/                                
 ESS GENERAL PUBLIC LICENSE 001
 Version 1, 14th March 2025
 
 Copyright (c) 2025 Eastall Software Systems Limited
-https://eastallsoftware.com
+https://eastall.software
 
 Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
